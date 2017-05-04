@@ -45,8 +45,8 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right">
-          <a href = "login.html"><button type="button" class="btn btn-default navbar-btn">Log in</button></a>
-          <a href = "signup.html"><button type="button" class="btn btn-default navbar-btn">Sign Up</button></a>
+          <a href = "login.jsp"><button type="button" class="btn btn-default navbar-btn">Log in</button></a>
+          <a href = "signup.jsp"><button type="button" class="btn btn-default navbar-btn">Sign Up</button></a>
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
