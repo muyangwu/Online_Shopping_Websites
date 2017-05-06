@@ -30,5 +30,8 @@
                "VALUES (" + values + ");";
 
   st.executeUpdate(sql);
-
+  rs.close();
+  stmt.close();
+  c.close();
+  response.sendRedirect("welcome.jsp");
 %>
